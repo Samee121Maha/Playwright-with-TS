@@ -1,4 +1,4 @@
-// tests/checkout.spec.ts
+
 import { test, expect } from '../fixtures/testFixture';
 import CartPage from '../pages/cartPage';
 import { CheckoutPage } from '../pages/checkoutPage';

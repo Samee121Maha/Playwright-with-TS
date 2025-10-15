@@ -1,4 +1,4 @@
-// pages/loginPage.ts
+
 import { Page } from '@playwright/test';
 import { BasePage } from '../utils/basePage';
 

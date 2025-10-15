@@ -1,9 +1,9 @@
-// pages/cartPage.ts
+
 import { Page, expect } from '@playwright/test';
 
 export default class CartPage {
   private cartItems = '.cart_item';
-  private checkoutBtn = '#checkout'; // use ID, reliable
+  private checkoutBtn = '#checkout'; 
 
   constructor(private page: Page) {}
 
